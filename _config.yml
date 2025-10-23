@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "zh-CN"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "付文哲/个人成长历程"
+title                    : "venture"
 title_separator          : "-"
 name                     : &name "付文哲"
 description              : &description "付文哲的学习记录和当前取得的成果"   # Update this with a general description of your site, this is the default if not overridden by a page
